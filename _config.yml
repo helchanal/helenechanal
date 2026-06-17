@@ -1,0 +1,19 @@
+remote_theme: coursweb/jk-theme
+
+title: Hélène CHANAL
+
+description: Professional website
+
+lang: fr-FR
+
+# menu 
+chapters:
+ - title: Institut Pascal
+   url: https://www.institutpascal.uca.fr/index.php/fr/
+ - title: SIGMA Clermont
+   url: https://www.sigma-clermont.fr/fr/index.html
+
+# pied de page   
+footer_col_1: <ul class="contact-list">
+  <li>Institut Pascal / Clermont Auvergne INP, Aubière</li> <li>2026</li></ul>
+
