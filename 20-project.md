@@ -31,6 +31,8 @@ Robot Trajectory Calculation for Additive Manufacturing of Complex Tubing
 
 Partners : G-SCOP and Institut Pascal
 
+<img src="images/compa_prgm_mgd.png" style="float:right; width:300px; margin-left:20px;">
+
 # ANR IMaDe (2019-2023)
 
 In this project, we focus on controlling the deformation of parts with residual stresses during machining by using in-situ measurement of the part's behavior and proposing an intelligent adaptation of the clamping system. This project contributes to the development of so-called intelligent machining, tailored to the part’s behavior both during machining and after de-clamping.
