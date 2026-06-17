@@ -21,6 +21,8 @@ Evaluation and Improvement of Dimensional and Geometric Capability of Multi-Axis
 
 Partners : COSMER, Université de MONS and Institut Pascal
 
+<img src="images/PXL_20260120_150943522.jpg" style="float:right; width:300px; margin-left:20px;">
+
 Additive manufacturing (AM) processes through direct deposition are rapidly developing and address a clear industrial need for the production of large raw parts, within tight deadlines, and in quantities ranging from prototypes to small batches. The use of multi-axis machines allows the manufacturing of complex-shaped parts without the need for support material, which is particularly advantageous for metal fabrication. However, one of the barriers to the widespread adoption of these technologies is the lack of control over quality compared to conventional processes (casting or forging). This concerns the quality achieved in terms of dimensions, geometry, and material properties, depending on the size and morphology of the part to be produced, as well as the manufacturing process parameters. These parameters are related to the deposition process, the production cell (architecture, type, and dimensions of machines/robots), and the methods used (including strategy/path). Mastering dimensional and geometric quality is essential for achieving repeatable raw parts. Knowledge of manufacturing tolerances can therefore be helpful in determining the machining allowances and ensuring the thickness of the remaining raw walls (mechanical strength, mass, etc.). The objective of the CAP-AM project is to develop "tools" for the dimensional and geometric qualification of multi-axis direct deposition AM processes.
 
 # Project CraFT (AURA Region funding) (2021-2026)
