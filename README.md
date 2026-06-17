@@ -1,4 +1,4 @@
-<img src="images/site.jpg" alt="site" style="float:right; width:300px; margin-left:20px;">
+<img src="images/site.jpg" style="float:right; width:300px; margin-left:20px;">
 
 Full professor Clermont Auvergne INP - Institut Pascal
 
