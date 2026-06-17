@@ -9,6 +9,8 @@ Hyperstatic Parallel Architecture Robot for Sustainable Industry
 
 Partners : LS2N and Institut Pascal
 
+<img src="images/IMG20211112085345.jpg" style="float:right; width:300px; margin-left:20px;">
+
 The aim of this project is to develop a new parallel robot architecture for machining and drilling tasks on large parts or assemblies in the aerospace and shipbuilding industries. This architecture must meet both stiffness requirements and lightweight constraints to minimize the energy consumption required for movement. In this context, the novelty of the project lies in focusing on hyperstatic parallel robots; this type of architecture reduces the weight of moving components while offering high stiffness performance. The design of an industrializable robot involves innovative cross-disciplinary work in scientific fields such as mechanism synthesis, tolerance analysis of hyperstatic mechanisms, and the modeling of the robot’s architecture behavior under the loads induced by hypersticity. The challenge is to control both the behavior and the manufacturing cost of these robots, considering the gains in weight reduction and energy consumption.
 
 Work will focus on validating the choice of architecture for robotic machining. This will involve comparing the performance of different robots with the proposed architectures.
