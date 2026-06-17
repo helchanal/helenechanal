@@ -1,4 +1,6 @@
-images/site.jpg
+---
+images: ["/images/site.jpg"]
+---
 
 Full professor Clermont Auvergne INP - Institut Pascal
 
