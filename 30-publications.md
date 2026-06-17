@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-url: https://scholar.google.com/citations?user=LPaQwz4AAAAJ&hl=fr 
+https://scholar.google.com/citations?user=LPaQwz4AAAAJ&hl=fr 
 
 Moutsinga, I., Paccot, F., Chanal, H., & Bouton, N. (2026). Analysis of a new reactive control strategy to improve transparency of human-robot co-manipulation. Mechanics & Industry, 27, 7.
 
