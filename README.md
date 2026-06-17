@@ -1,4 +1,4 @@
-# home
+# Home
 
 Full professor Clermont Auvergne INP - Institut Pascal
 
